@@ -1,90 +1,76 @@
-👩‍💻 About Me
+# 👩‍💻 About Me
 
-I’m a Telecommunication Technologies & Data Transmission Engineering student building a long-term career in network systems, data infrastructure, and intelligent communication technologies.
+I’m a Telecommunication Technologies & Data Transmission Engineering student focused on building strong foundations in **network systems, data infrastructure, and intelligent communication technologies** 🌐📡
 
-My approach is simple:
+## 🔎 My Approach
 
-Understand how networks actually work (not just configure them)
+- 🧠 Understand how systems and networks actually work — not just configure them  
+- 📡 Connect theory (OSI, TCP/IP, signal flow) with practical simulations  
+- 🛠 Build small but structured technical projects  
+- 📘 Document everything publicly and clearly  
 
-Connect theory (OSI, TCP/IP, signal flow) with real simulations
+I aim to combine **network engineering + data analysis + system thinking** into one solid technical profile.
 
-Build small but structured technical projects
+---
 
-Document everything publicly
+# 🎓 Academic Background
 
-I aim to combine network engineering + data analysis + system thinking into one strong technical foundation.
+**BSc – Telecommunication Technologies & Data Transmission Engineering**  
+Riga Technical University (RTU) 🇱🇻
 
-🎓 Academic Background
+## 📚 Key Academic Interests
 
-BSc in Telecommunication Technologies & Data Transmission Engineering
-Riga Technical University (RTU)
-
-Key academic interests:
-
-Computer Networks (OSI, TCP/IP, routing, switching)
-
-Digital Signal & Data Transmission Fundamentals
-
-Network Protocols & Architecture
-
-System Integration Concepts
-
-Applied Programming for Engineering
+- 🌐 Computer Networks (OSI, TCP/IP, routing, switching)  
+- 📡 Digital Signal & Data Transmission Fundamentals  
+- 🔗 Network Protocols & Architecture  
+- 🧩 System Integration Concepts  
+- 💻 Applied Programming for Engineering  
 
 My studies focus on understanding how data moves, how systems communicate, and how infrastructure scales.
 
-🛠 Core Focus Areas
+---
 
-🌐 Networking Fundamentals (IP addressing, subnetting, routing basics)
+# 🛠 Core Focus Areas
 
-📡 Data Transmission & Communication Systems
+- 🌍 Networking Fundamentals (IP addressing, subnetting, routing logic)  
+- 📡 Data Transmission & Communication Systems  
+- 🧠 Algorithmic Thinking & Technical Problem Solving  
+- 🐧 Linux & CLI-based system usage  
+- ⚙️ System-Level Understanding  
+- 🤖 Python for automation & data analysis  
 
-🧠 Algorithmic Thinking & Technical Problem Solving
+I focus on understanding the logic behind communication systems — not just their configuration.
 
-🖥 Linux & CLI-based system usage
+---
 
-🧩 System-Level Understanding
+# 💻 Technologies I’m Working With
 
-🤖 Python for automation & data analysis
+## 💡 Programming
 
-I aim to understand the logic behind communication systems — not just their configuration.
+- 🐍 Python → data analysis & automation tools  
+- 💠 C++ → OOP fundamentals  
+- ☕ Java → algorithms & structured programming  
 
-⚙️ Technologies I’m Working With
-Programming
+## 🌐 Networking & Systems
 
-Python → data analysis, small automation tools
+- 🖧 Cisco Packet Tracer (network simulation)  
+- 🔌 TCP/IP fundamentals  
+- 🗂 Basic VLAN & routing configuration  
+- 🐧 Linux (CLI usage)  
+- 🔄 Git & GitHub workflow  
 
-C++ → OOP fundamentals
+---
 
-Java → algorithms & structured programming
+# 🚀 Current Development Path (2026 Focus)
 
-Networking & Systems
+- 📡 Strengthening networking fundamentals (subnetting, routing logic)  
+- 📊 Building ML & data analysis projects (IBM Data Analysis track)  
+- 🏢 Designing simulated enterprise networks  
+- 🌱 Exploring IoT & energy monitoring concepts  
+- 📂 Publishing structured projects on GitHub  
 
-Cisco Packet Tracer (network simulation)
-
-TCP/IP fundamentals
-
-Basic VLAN & routing configuration
-
-Linux (CLI usage)
-
-Git & GitHub workflow
-
-📊 Current Development Path (2026 Focus)
-
-Strengthening networking fundamentals (subnetting, routing logic)
-
-Building small ML & data analysis projects (IBM Data Analysis track)
-
-Designing simulated enterprise networks
-
-Exploring IoT & energy monitoring concepts
-
-Publishing all projects on GitHub
-
-Long-term goal:
+**🎯 Long-term goal:**  
 Become a strong systems & network-oriented engineer with data-driven thinking.
-
 <!--
 **begumonegi/begumonegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
