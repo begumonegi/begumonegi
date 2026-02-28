@@ -47,9 +47,10 @@ I focus on understanding the logic behind communication systems — not just the
 
 ## 💡 Programming
 
-- 🐍 Python → data analysis & automation tools  
-- 💠 C++ → OOP fundamentals  
-- ☕ Java → algorithms & structured programming  
+- 🐍 **Python** → data analysis & automation (pandas, basic ML workflows)  
+- 📊 **MATLAB** → numerical computing, signal analysis, engineering simulations  
+- 🗄️ **SQL** → relational databases, SELECT/JOIN queries, basic schema design  
+- 💻 **C++** → object-oriented programming fundamentals  
 
 ## 🌐 Networking & Systems
 
